@@ -1,1 +1,1 @@
-This repository contains the R code and the data for the paper by M. van Boekel: "Kinetics of heat-induced changes in foods: a workflow proposal", published in Journal of Food Engineering, 306(2021)110634
+This repository contains the R code, the brms fits and the data for the paper by M. van Boekel: "Kinetics of heat-induced changes in foods: a workflow proposal", published in Journal of Food Engineering, 306(2021)110634
